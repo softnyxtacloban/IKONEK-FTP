@@ -1,0 +1,3 @@
+Default IP Address: https://192.168.1.1/admin.html
+username: adminpldt
+Password: AC2DIU7QW3ERTY6UPAS4DFG or 1234567890/0123456789
